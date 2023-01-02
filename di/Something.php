@@ -1,12 +1,12 @@
 <?php
 
-namespace patterns;
+namespace di;
 
 class Something
 {
     protected $name;
 
-    public function __construct(string $name)
+    public function __construct(string $name = null)
     {
         $this->name = $name;
     }

@@ -2,7 +2,7 @@
 
 namespace di;
 
-class Porshen
+class Anything
 {
     protected $something;
 

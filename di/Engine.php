@@ -1,6 +1,6 @@
 <?php
 
-namespace patterns;
+namespace di;
 
 class Engine
 {
